@@ -7,7 +7,6 @@
 Проекты в хронологическом порядке:
 
 1. [🐆[Leopard Challenge] Регрессия](https://github.com/vladenec/ds_projects/tree/main/kaggle_regression_leopard_challenge)
-    
-    Первое участие в соревновании Kaggle.com
+    (*Первое участие в соревновании Kaggle.com*)
    
 3. [🐆[Leopard Challenge] Классификация](https://github.com/vladenec/ds_projects/tree/main/kaggle_classification_leopard_challenge)
