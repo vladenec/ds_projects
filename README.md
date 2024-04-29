@@ -9,4 +9,6 @@
 1. [🐆[Leopard Challenge] Регрессия](https://github.com/vladenec/ds_projects/tree/main/kaggle_regression_leopard_challenge)
     (*Первое участие в соревновании Kaggle.com*)
    
-3. [🐆[Leopard Challenge] Классификация](https://github.com/vladenec/ds_projects/tree/main/kaggle_classification_leopard_challenge)
+2. [🐆[Leopard Challenge] Классификация](https://github.com/vladenec/ds_projects/tree/main/kaggle_classification_leopard_challenge)
+
+3. [[Playground Series - Season 4, Episode 3] Steel Plate Defect Prediction](https://github.com/vladenec/ds_projects/tree/main/kaggle_classification_leopard_challenge)
