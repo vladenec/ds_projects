@@ -11,4 +11,4 @@
    
 2. [🐆[Leopard Challenge] Классификация](https://github.com/vladenec/ds_projects/tree/main/kaggle_classification_leopard_challenge)
 
-3. [[Playground Series - Season 4, Episode 3] Steel Plate Defect Prediction](https://github.com/vladenec/ds_projects/tree/main/kaggle_classification_leopard_challenge)
+3. [[Playground Series - Season 4, Episode 3] Steel Plate Defect Prediction](https://github.com/vladenec/ds_projects/tree/main/kaggle_playground_S4E3)
