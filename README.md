@@ -19,7 +19,14 @@
 
 3. [[Playground Series - Season 4, Episode 3] Steel Plate Defect Prediction](https://github.com/vladenec/ds_projects/tree/main/kaggle_playground_S4E3)
 
+---
 
+---
+
+---
+
+
+# ENG ⬇️
 
 
 # HI! My name is Vlad, this repository is part of my portfolio
